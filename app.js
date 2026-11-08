@@ -1,4 +1,4 @@
-import {initMusic} from '/lib/music.js?v=music-v71';
+import {initMusic} from '/lib/music.js?v=music-entry-v83';
 import {initYandexEmbed} from '/lib/yandex-embed.js?v=footer-v67';
 import {decodeDecoration} from '/lib/decoration.js?v=bounded-v44';
 import {initPearlTrails} from '/lib/pearl-trail.js?v=pearl-story-21';
@@ -44,7 +44,7 @@ document.querySelectorAll('[data-close]').forEach(b=>b.addEventListener('click',
 if($('intro')){
  const intro=$('intro'),content=$('site-content');
  // Register before createInvitation: it may open immediately with intro disabled.
- initMusic({audio:$('background-music'),button:$('music-toggle'),startButton:$('open-envelope'),events:document,notify:toast});
+ initMusic({audio:$('background-music'),button:$('music-toggle'),startButton:$('open-doors'),events:document,notify:toast});
  document.addEventListener('invitation-opened',()=>{const button=$('music-toggle');if(button)document.body.append(button);});
  const invitation=createInvitation({intro,content,reduced,lock,unlock,enabled:wedding.intro.enabled});
  let observer;try{if(typeof IntersectionObserver!=='function')throw new Error('No observer');observer=new IntersectionObserver(entries=>entries.forEach(x=>{if(x.isIntersecting){x.target.classList.add('visible');observer.unobserve(x.target);}}),{threshold:.08});if(!reduced.matches)document.body.classList.add('motion-ready');}catch{observer={observe(node){node.classList.add('visible');}};}
