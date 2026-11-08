@@ -13,8 +13,8 @@
     },
     {
       "path": "app.js",
-      "bytes": 12013,
-      "sha256": "4d95c41a34cac65e4f36a9058292375bb87340bd90909888c0388ae9342116ad"
+      "bytes": 12016,
+      "sha256": "667c5d85cd5f4c5420b6f0a340fa808b5ef274b9afc6579ac1aaa7e1a6f8d8c2"
     },
     {
       "path": "apple-touch-icon.png",
@@ -223,8 +223,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 30004,
-      "sha256": "3497154fe443dfddbec0efc4421205e14fdf3dc68213716d7501853f9d54d265"
+      "bytes": 30000,
+      "sha256": "c29154b0127504231e3c5b0e0af37df340ec7147e1446cce06d8454b51dec5f8"
     },
     {
       "path": "lib/3d-v12/chunk-4BUNND2E.js",
@@ -258,8 +258,8 @@
     },
     {
       "path": "lib/music.js",
-      "bytes": 1762,
-      "sha256": "875e82d6ec9b7684ef67b88b5f56bac65f04680b6479e1d8b95fb7fc9fe77083"
+      "bytes": 2433,
+      "sha256": "59d6786afb9020d9b983580eecf82f2d0504210c58e6d614cb5cab26c0307ee1"
     },
     {
       "path": "lib/pearl-trail.js",
