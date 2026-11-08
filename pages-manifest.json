@@ -223,8 +223,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 30000,
-      "sha256": "c29154b0127504231e3c5b0e0af37df340ec7147e1446cce06d8454b51dec5f8"
+      "bytes": 29948,
+      "sha256": "022e714cb64b970a28d613b755bdcdf9d46211e4180071c3580b3ac4cd30a1ec"
     },
     {
       "path": "lib/3d-v12/chunk-4BUNND2E.js",
