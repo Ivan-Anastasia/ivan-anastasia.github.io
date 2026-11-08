@@ -2,7 +2,7 @@ import {initMusic} from '/lib/music.js?v=music-entry-v83';
 import {initYandexEmbed} from '/lib/yandex-embed.js?v=footer-v67';
 import {decodeDecoration} from '/lib/decoration.js?v=bounded-v44';
 import {initPearlTrails} from '/lib/pearl-trail.js?v=pearl-story-21';
-import {createInvitation} from '/lib/invitation-sequence-v25.js?v=photo-preload-v81';
+import {createInvitation} from '/lib/invitation-sequence-v25.js?v=intro-no-cross-v85';
 import {wedding,names} from '/src/config/wedding.js?v=music-v80';
 import {countdown} from '/src/lib/date.js';
 const $=id=>document.getElementById(id);

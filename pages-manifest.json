@@ -13,8 +13,8 @@
     },
     {
       "path": "app.js",
-      "bytes": 12016,
-      "sha256": "667c5d85cd5f4c5420b6f0a340fa808b5ef274b9afc6579ac1aaa7e1a6f8d8c2"
+      "bytes": 12017,
+      "sha256": "078aa34ad8976feff1048df03c1bdd37fb30c0962ac34ba07cf0c31d473cd3c5"
     },
     {
       "path": "apple-touch-icon.png",
@@ -223,8 +223,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 29948,
-      "sha256": "022e714cb64b970a28d613b755bdcdf9d46211e4180071c3580b3ac4cd30a1ec"
+      "bytes": 29669,
+      "sha256": "3e8c91f6497bb62c81e967e68801e6647f9a00e4c8faaf694f0bef3c96012134"
     },
     {
       "path": "lib/3d-v12/chunk-4BUNND2E.js",
@@ -253,8 +253,8 @@
     },
     {
       "path": "lib/invitation-sequence-v25.js",
-      "bytes": 13406,
-      "sha256": "4f43aa13f4d89b00cf576183417b9dec3d81f94a49f023ca0e36fba19685aced"
+      "bytes": 12981,
+      "sha256": "5fc66888a55f959818fb55ba48e2f9f6d546796f806e486f015a09d02a446c13"
     },
     {
       "path": "lib/music.js",
@@ -293,8 +293,8 @@
     },
     {
       "path": "styles.css",
-      "bytes": 89584,
-      "sha256": "ad4f96394431a65d02d664e757b7100fc7965e82802d67c8cfacd4920f202eb2"
+      "bytes": 89453,
+      "sha256": "b531d9fa46e6c8762778b873d64223f2ffc9d5fb09d052d93afda39d2e984648"
     }
   ]
 }
