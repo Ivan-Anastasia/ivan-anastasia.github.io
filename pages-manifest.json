@@ -1,0 +1,300 @@
+{
+  "origin": "https://ivan-anastasia.github.io/",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "404.html",
+      "bytes": 209,
+      "sha256": "742ceba9942833f7c42f8f702cefea5e996c37a1025085ad4974ddb9e38e3ce1"
+    },
+    {
+      "path": "app.js",
+      "bytes": 12013,
+      "sha256": "4d95c41a34cac65e4f36a9058292375bb87340bd90909888c0388ae9342116ad"
+    },
+    {
+      "path": "apple-touch-icon.png",
+      "bytes": 5321,
+      "sha256": "a7cbc2cac8ee23817f3a02ce2392c407512dfb4fd4546b2553af000375603911"
+    },
+    {
+      "path": "assets/botanical-letter-paper-v48.webp",
+      "bytes": 171180,
+      "sha256": "73def65a6aabb14064948d8551fa8af89d3bf35bab476bf411006e501baf1f50"
+    },
+    {
+      "path": "assets/botanical-relief-v40.webp",
+      "bytes": 84616,
+      "sha256": "f4dc1852a3459d547d291756c33cbf3f0045b854035e5eba4c1fdf55bbeaec5d"
+    },
+    {
+      "path": "assets/botanical-tray-v41.webp",
+      "bytes": 422396,
+      "sha256": "43e6421f080b90be65c79486559adae78bd27b7b8ec65619a0af0b16ceb746c8"
+    },
+    {
+      "path": "assets/calendar-heart.svg",
+      "bytes": 226,
+      "sha256": "01fe0b87960bc7991732c3efea028318ab31d13e6a4133ed87bbf797e837a82e"
+    },
+    {
+      "path": "assets/channel-open-envelope.webp",
+      "bytes": 30912,
+      "sha256": "29975a77809c6e437cb6a4e8cf4e12de1f509b905d2d00348a042d449d043ac0"
+    },
+    {
+      "path": "assets/couple-meadow-v79.png",
+      "bytes": 8407270,
+      "sha256": "b1394024693a483206ef2fcc46d33734298030b4af44cf4c3211222314ac435f"
+    },
+    {
+      "path": "assets/editorial-clouds.webp",
+      "bytes": 151180,
+      "sha256": "c83eeeb70ed1ce9182f2fece4856141737366c6df4b3ac0ade7ec4447c707de5"
+    },
+    {
+      "path": "assets/envelope-flap-v12.webp",
+      "bytes": 272450,
+      "sha256": "81859720472aa20b3ed2da07de4aa1b31304bd394543813f901bed49c05113b2"
+    },
+    {
+      "path": "assets/envelope-paper-photo.webp",
+      "bytes": 117364,
+      "sha256": "b6b62c4395859093023400665cfd75f205308c39c056be51f3802c1d0474c67a"
+    },
+    {
+      "path": "assets/envelope-pocket-v12.webp",
+      "bytes": 154222,
+      "sha256": "fce9d183b6a3146802206b34291b2cc39884a75e49695feb0551cb5cf79016d4"
+    },
+    {
+      "path": "assets/fashion.webp",
+      "bytes": 112592,
+      "sha256": "763ca7adf8c0a20cd052f3dc01ea3ba625f5f47190e7a120e38268a806679f08"
+    },
+    {
+      "path": "assets/gatefold-doors-mobile-v25.webp",
+      "bytes": 83206,
+      "sha256": "582679fd1fe7bf44e357ea2d58ac3824f52d3ace4078bf977157cd20619e6dc2"
+    },
+    {
+      "path": "assets/gatefold-doors-v25.webp",
+      "bytes": 207670,
+      "sha256": "aa523be90861ed800491c924bb556269a3178425beae7901882c0fdf4e524bed"
+    },
+    {
+      "path": "assets/gatefold-letter-v34.webp",
+      "bytes": 237942,
+      "sha256": "787ee95685ad351585f189e42ffb1a249f73b7bc14312c144262687cd5bb4b3d"
+    },
+    {
+      "path": "assets/gatefold-medallion-v25.webp",
+      "bytes": 21586,
+      "sha256": "c05246264f79f9e31b5939e4ae7c3dbff9fee5a6d9fa94a3721d6df5d6515a49"
+    },
+    {
+      "path": "assets/hearts-nacre-v8.webp",
+      "bytes": 291314,
+      "sha256": "cef74333fa9fd0e3409cf46053a8bb6e807077c3a11cba33c2f60a665c6b8e7a"
+    },
+    {
+      "path": "assets/invitation-relief-frame-v48.webp",
+      "bytes": 105958,
+      "sha256": "d62c4d297897c52facdc94110669c5a838e337d7876d8d53702a1cead7dec003"
+    },
+    {
+      "path": "assets/lace-envelope-readable-v4.webp",
+      "bytes": 202612,
+      "sha256": "e24fca600014625fe799921fdbb921e78cd756911214380600aa149232414890"
+    },
+    {
+      "path": "assets/paper-pearl.webp",
+      "bytes": 186190,
+      "sha256": "56b0d24ee12c85b6fb7000402045e4d6191c9bf4235c59093927379c0ff00216"
+    },
+    {
+      "path": "assets/pearl-arc-white.webp",
+      "bytes": 24030,
+      "sha256": "f1a1ad0c171fdb14a0d0fdcaf2fddd835fd0e12444f57b9ee54fb565400c768d"
+    },
+    {
+      "path": "assets/pearl-hearts-photo.webp",
+      "bytes": 143242,
+      "sha256": "5cb4f7d9110c0a0e97d66656746327b3712dbe1b102c1f80d13f6e89ce4b185c"
+    },
+    {
+      "path": "assets/pearl-thread-photo.webp",
+      "bytes": 322142,
+      "sha256": "0c2139057a618afbef36695d423ed019b62ac17cbaf9375b8a31c20e5945368f"
+    },
+    {
+      "path": "assets/taupe-fabric-v3.webp",
+      "bytes": 314746,
+      "sha256": "ae7a8cf7efb2800be8ae77bdf8b974f0d4448ae06a7ab7d0c76d1612d32fa5cc"
+    },
+    {
+      "path": "assets/tray-flat-ivory-paper.webp",
+      "bytes": 395014,
+      "sha256": "6119e871c547e5a5250b1a4f02d8cf40ea4021feb0627701a367cc46c968af3a"
+    },
+    {
+      "path": "assets/tray-necklace-unified-v11.webp",
+      "bytes": 453380,
+      "sha256": "6809574445aea228d2880bab6d836705f631f912917a8eb40dacba23686b1226"
+    },
+    {
+      "path": "assets/tray.webp",
+      "bytes": 292522,
+      "sha256": "ec778fa9f2d3391bfdb171301adb6efc90d743ee6e7477c06df4a038991be645"
+    },
+    {
+      "path": "assets/tri-dnya-dozhdya-krasota-quiet-v80.mp3",
+      "bytes": 5328946,
+      "sha256": "de7b7a84a21b1918d89dcf81cbddd1a9fd4f0f1f669ce2abc760085191501e80"
+    },
+    {
+      "path": "assets/velvet-fine-v25.webp",
+      "bytes": 187816,
+      "sha256": "05d3ea7cec5762e76e91bf723137a2cf113f8e8814d596c02772e8e1a45392d8"
+    },
+    {
+      "path": "assets/wedding-cover-v25.png",
+      "bytes": 623005,
+      "sha256": "962189d2dfda73ec0b1b09686b7c4c6696d7c151a25432a2b510dba49c1b0142"
+    },
+    {
+      "path": "assets/wedding-still-life.webp",
+      "bytes": 101974,
+      "sha256": "2be6633fda4549e8c0fa80580cbeaa3316be78f7314002a27db1bf2759036421"
+    },
+    {
+      "path": "assets/wedding-velvet-heading-pendant.webp",
+      "bytes": 294064,
+      "sha256": "40e3208d5813f70ddf1a9d85a5e888995a6e3cec76082f263e6adf9c29d6419d"
+    },
+    {
+      "path": "favicon-32.png",
+      "bytes": 693,
+      "sha256": "3cecaa42fff2bb0de03a9bc0a42303bdc9edde9dbcde95c684feeb9f6c80aa3e"
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 2210,
+      "sha256": "0ceb5aadad267a6e50fd7ac424b5d43c84841011d98745df6947729575b63a5f"
+    },
+    {
+      "path": "fonts/Cormorant-Garamond-OFL.txt",
+      "bytes": 4388,
+      "sha256": "ecd1b9f2f5bd3ac0614ce50c6024c69044a555afe1dcd79e7a33de738ee59410"
+    },
+    {
+      "path": "fonts/cormorant-garamond.woff2",
+      "bytes": 205872,
+      "sha256": "5c63b39532df3ebb8c6812f68f268335eb35324f9fcd4382e69ed3e7700250c4"
+    },
+    {
+      "path": "fonts/cormorant-v25.woff2",
+      "bytes": 68096,
+      "sha256": "cc91eff032b467ffa179e29f97dc54c992bd0d3ee432d257db829d87d7cfeac4"
+    },
+    {
+      "path": "fonts/Manrope-OFL.txt",
+      "bytes": 4388,
+      "sha256": "4f67b767d602edc0065ca540cfb36d15e3d5e41eecb4c32f768a5f6d396d56fb"
+    },
+    {
+      "path": "fonts/manrope-v25.woff2",
+      "bytes": 44856,
+      "sha256": "2bcbe963bc212f98ee8a85344a8736ebd9ca68a37c8cd1bedd539b5f06f56bc9"
+    },
+    {
+      "path": "fonts/Marck-Script-OFL.txt",
+      "bytes": 4421,
+      "sha256": "1c04a0192807d278ce635a1f3a7d8020129c782015e188891bd46f22b54f594e"
+    },
+    {
+      "path": "fonts/marck-v25.woff2",
+      "bytes": 25260,
+      "sha256": "051488798cefd3551aa4682b0c61dce8dee1567f8fa1356133d79baf5a857858"
+    },
+    {
+      "path": "index.html",
+      "bytes": 30004,
+      "sha256": "3497154fe443dfddbec0efc4421205e14fdf3dc68213716d7501853f9d54d265"
+    },
+    {
+      "path": "lib/3d-v12/chunk-4BUNND2E.js",
+      "bytes": 547155,
+      "sha256": "83b40df5ce262913e25b589e5ce3c458874fe45e23bf938cecb9fb636fb68aa7"
+    },
+    {
+      "path": "lib/3d-v17/envelope-v42.js",
+      "bytes": 8436,
+      "sha256": "57a6d448f493c215e0f5c46806af3b91002098dc1b9204c7b2aeccee93640de3"
+    },
+    {
+      "path": "lib/decoration.js",
+      "bytes": 703,
+      "sha256": "7f008625153a350b7310a37bf5e226489bf98371102543cffca798ced0c496df"
+    },
+    {
+      "path": "lib/door-motion-v34.js",
+      "bytes": 1010,
+      "sha256": "820d03c4fa774c01451ef3e1e315ca643f32ac39bc3cd1e830deb1a0feeb519a"
+    },
+    {
+      "path": "lib/envelope-motion-v36.js",
+      "bytes": 1459,
+      "sha256": "d840003a313ddf43c27872caf1ea219debe37e587f8453d4164a2dfef13fbad6"
+    },
+    {
+      "path": "lib/invitation-sequence-v25.js",
+      "bytes": 13406,
+      "sha256": "4f43aa13f4d89b00cf576183417b9dec3d81f94a49f023ca0e36fba19685aced"
+    },
+    {
+      "path": "lib/music.js",
+      "bytes": 1762,
+      "sha256": "875e82d6ec9b7684ef67b88b5f56bac65f04680b6479e1d8b95fb7fc9fe77083"
+    },
+    {
+      "path": "lib/pearl-trail.js",
+      "bytes": 4064,
+      "sha256": "b2ed2e5286092a64bafe2ec8b519945c5cf2fffeac68873b04e43e48a5cb90ec"
+    },
+    {
+      "path": "lib/yandex-embed.js",
+      "bytes": 1953,
+      "sha256": "abc9ec0bddf73a1b91a4d57f5973e5d63d723400ad398e65d845bc7df0b0dbeb"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 77,
+      "sha256": "bbedcbe60c27ea0150f36c6a4afb43382ed3eaed8b748405420da06bcf2bcfc9"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 162,
+      "sha256": "c2ea06256772b46b66da667fe69f6bf31804b0eadacb1e2e56208af474417459"
+    },
+    {
+      "path": "src/config/wedding.js",
+      "bytes": 6889,
+      "sha256": "20b037e6a5217450c1705651dd3eec9f1d66c1a0f9e836adadc18128b98998bd"
+    },
+    {
+      "path": "src/lib/date.js",
+      "bytes": 1185,
+      "sha256": "edae854a345670549a814664ec7437632d93230d2294249b3fb74e908b9fa1b1"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 89584,
+      "sha256": "ad4f96394431a65d02d664e757b7100fc7965e82802d67c8cfacd4920f202eb2"
+    }
+  ]
+}
